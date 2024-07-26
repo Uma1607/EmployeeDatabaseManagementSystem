@@ -1,4 +1,4 @@
-# EmployeeDatabaseManagementSystem
+# Employee Database Management System
 
 ## Overview
 The Employee Database Management System is a Java application designed to manage employee information. It allows users to add, update, and manage employee records, which are stored in a MySQL database. The application features a graphical user interface (GUI) created using Eclipse IDE's WindowBuilder.
