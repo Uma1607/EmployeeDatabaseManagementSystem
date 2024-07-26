@@ -1,6 +1,25 @@
 # EmployeeDatabaseManagementSystem
 
-An Employee Database Management System created using JAVA. Stores employee information such as employee --> id,name,age,salary,gender,date of birth (you can add more attributes if you want:)). To add information, data should be filled in the form and by clicking the ADD NEW button --> information will be effected/updated in the Mysql database as well as in the window. And various other operations can also be perfomed in the java employee management application such as to print a copy of the form entered data there is a PRINT button to print a file in a pdf format,and a RESET button to reset the form data, finally an EXIT button to close the application.
+## Overview
+The Employee Database Management System is a Java application designed to manage employee information. It allows users to add, update, and manage employee records, which are stored in a MySQL database. The application features a graphical user interface (GUI) created using Eclipse IDE's WindowBuilder.
 
-Created using Eclipse IDE
-You need not write the whole code , can use New --> Other -->Window Builder --> Application Window --> drag, drop and edit --> code will be auto generated for the elements selected and write logic for the required  operations. ---> Happy Learning :)
+## Features
+1. Employee Information: Stores details such as ID, Name, Age, Salary, Gender, Date of Birth, and more (additional attributes can be added).
+2. Add New Employee: Fill out a form and click the "ADD NEW" button to save employee information to the MySQL database and update the GUI.
+
+## How It Works
+1. Data Entry: Enter employee information into the provided form.
+2. Save to Database: Click "ADD NEW" to save the data to a MySQL database and update the window.
+3. Print Data: Generate a PDF of the form data using the "PRINT" button.
+4. Reset Form: Clear form fields by clicking the "RESET" button.
+5. Exit: Close the application with the "EXIT" button.
+
+## Setup and Installation
+### Requirements:
+1. Java Development Kit (JDK)
+2. MySQL Database
+3. Eclipse IDE
+   
+## Development Tips
+1. Use Eclipse's WindowBuilder for GUI design: Go to New -> Other -> WindowBuilder -> Application Window. Drag and drop GUI components and edit as needed.The code will be auto-generated.
+2. Write custom logic for operations such as adding, resetting, and printing data.
